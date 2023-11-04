@@ -1,7 +1,7 @@
 import random
 MAX_LINES= 3
-MAX_BET = 100
-MIN_BET = 1
+MAX_BET = 200
+MIN_BET = 10
 
 Rows = 3
 Cols = 3
